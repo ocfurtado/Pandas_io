@@ -1,0 +1,6 @@
+﻿cod_fornecedor;nome_fornecedor;data_pagamento;valor_pago;status
+F-0012;Açougue São José Ltda;15/01/2025;3450,9;pago
+F-0013;Padaria São Lucas Ltda;15/02/2025;156,8;pendente
+F-0014;Supermercado Lotus Ltda;16/03/2025;1547,9;pago
+F-0015;Restaurante Claretiano Ltda;20/04/2025;3465,89;pendente
+F-0016;Lanchonete Mila Ltda;28/05/2025;3000;
