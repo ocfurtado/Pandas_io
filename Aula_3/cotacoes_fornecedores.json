@@ -1,0 +1,77 @@
+[
+  {
+    "fornecedor": {
+      "codigo": "F-201",
+      "razao_social": "Distribuidora Elétrica São Paulo Ltda",
+      "cidade": "São Paulo",
+      "uf": "SP"
+    },
+    "data_cotacao": "2025-02-10",
+    "itens": [
+      {
+        "codigo_produto": "PROD-001",
+        "descricao": "Cabo elétrico 2.5mm - 100m",
+        "quantidade": 50,
+        "preco_unitario": 89.9
+      },
+      {
+        "codigo_produto": "PROD-002",
+        "descricao": "Disjuntor 20A monofásico",
+        "quantidade": 200,
+        "preco_unitario": 18.5
+      }
+    ]
+  },
+  {
+    "fornecedor": {
+      "codigo": "F-305",
+      "razao_social": "Eletropeças Mineira ME",
+      "cidade": "Belo Horizonte",
+      "uf": "MG"
+    },
+    "data_cotacao": "2025-02-11",
+    "itens": [
+      {
+        "codigo_produto": "PROD-001",
+        "descricao": "Cabo elétrico 2.5mm - 100m",
+        "quantidade": 50,
+        "preco_unitario": 92.0
+      },
+      {
+        "codigo_produto": "PROD-003",
+        "descricao": "Tomada 2P+T 20A",
+        "quantidade": 500,
+        "preco_unitario": 7.8
+      }
+    ]
+  },
+  {
+    "fornecedor": {
+      "codigo": "F-118",
+      "razao_social": "Casa do Eletricista Conceição & Filhos",
+      "cidade": "Curitiba",
+      "uf": "PR"
+    },
+    "data_cotacao": "2025-02-12",
+    "itens": [
+      {
+        "codigo_produto": "PROD-001",
+        "descricao": "Cabo elétrico 2.5mm - 100m",
+        "quantidade": 50,
+        "preco_unitario": 85.5
+      },
+      {
+        "codigo_produto": "PROD-002",
+        "descricao": "Disjuntor 20A monofásico",
+        "quantidade": 200,
+        "preco_unitario": 19.9
+      },
+      {
+        "codigo_produto": "PROD-003",
+        "descricao": "Tomada 2P+T 20A",
+        "quantidade": 500,
+        "preco_unitario": 8.1
+      }
+    ]
+  }
+]
