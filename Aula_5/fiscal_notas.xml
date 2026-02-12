@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resumo_fiscal>
+  <fornecedor>
+    <cod_fornecedor>F-201</cod_fornecedor>
+    <qtd_notas_emitidas>5</qtd_notas_emitidas>
+    <total_nf>77000.00</total_nf>
+  </fornecedor>
+  <fornecedor>
+    <cod_fornecedor>F-305</cod_fornecedor>
+    <qtd_notas_emitidas>2</qtd_notas_emitidas>
+    <total_nf>28000.00</total_nf>
+  </fornecedor>
+  <fornecedor>
+    <cod_fornecedor>F-118</cod_fornecedor>
+    <qtd_notas_emitidas>8</qtd_notas_emitidas>
+    <total_nf>164000.00</total_nf>
+  </fornecedor>
+  <fornecedor>
+    <cod_fornecedor>F-410</cod_fornecedor>
+    <qtd_notas_emitidas>1</qtd_notas_emitidas>
+    <total_nf>15000.00</total_nf>
+  </fornecedor>
+</resumo_fiscal>

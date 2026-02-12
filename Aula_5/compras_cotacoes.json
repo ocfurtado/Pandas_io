@@ -1,0 +1,34 @@
+[
+  {
+    "fornecedor": {
+      "codigo": "F-201",
+      "razao_social": "Distribuidora Elétrica São Paulo Ltda"
+    },
+    "menor_preco_cotado": 85.5,
+    "categoria": "Material Elétrico"
+  },
+  {
+    "fornecedor": {
+      "codigo": "F-305",
+      "razao_social": "Eletropeças Mineira ME"
+    },
+    "menor_preco_cotado": 7.8,
+    "categoria": "Material Elétrico"
+  },
+  {
+    "fornecedor": {
+      "codigo": "F-118",
+      "razao_social": "Casa do Eletricista Conceição & Filhos"
+    },
+    "menor_preco_cotado": 85.5,
+    "categoria": "Material Elétrico"
+  },
+  {
+    "fornecedor": {
+      "codigo": "F-410",
+      "razao_social": "Iluminação Nordeste S.A."
+    },
+    "menor_preco_cotado": 42.0,
+    "categoria": "Iluminação"
+  }
+]

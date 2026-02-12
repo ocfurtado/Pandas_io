@@ -1,0 +1,7 @@
+cod_fornecedor;valor_pago;data_pagamento;forma_pagamento
+F-201;45.000,00;2025-01-15;boleto
+F-201;32.000,00;2025-02-10;transferencia
+F-305;28.000,00;2025-01-20;boleto
+F-118;55.000,00;2025-01-25;boleto
+F-118;61.000,00;2025-02-08;transferencia
+F-410;15.000,00;2025-02-05;pix
