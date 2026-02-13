@@ -1,0 +1,42 @@
+[
+  {
+    "cod_fornecedor": "F-201",
+    "num_contrato": "CTR-2024-001",
+    "vigencia_inicio": "01/01/2024",
+    "vigencia_fim": "31/12/2025",
+    "valor_contrato": 250000.0,
+    "status_contrato": "ativo"
+  },
+  {
+    "cod_fornecedor": "F-305",
+    "num_contrato": "CTR-2024-015",
+    "vigencia_inicio": "01/03/2024",
+    "vigencia_fim": "28/02/2026",
+    "valor_contrato": 180000.0,
+    "status_contrato": "ativo"
+  },
+  {
+    "cod_fornecedor": "F-118",
+    "num_contrato": "CTR-2024-022",
+    "vigencia_inicio": "15/06/2024",
+    "vigencia_fim": "14/06/2026",
+    "valor_contrato": 320000.0,
+    "status_contrato": "ativo"
+  },
+  {
+    "cod_fornecedor": "F-410",
+    "num_contrato": "CTR-2024-033",
+    "vigencia_inicio": "01/09/2024",
+    "vigencia_fim": "31/08/2026",
+    "valor_contrato": 95000.0,
+    "status_contrato": "suspenso"
+  },
+  {
+    "cod_fornecedor": "F-201",
+    "num_contrato": "CTR-2025-002",
+    "vigencia_inicio": "01/01/2025",
+    "vigencia_fim": "31/12/2025",
+    "valor_contrato": 175000.0,
+    "status_contrato": "ativo"
+  }
+]

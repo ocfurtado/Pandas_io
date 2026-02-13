@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notas_fiscais>
+  <nota>
+    <numero_nf>NF-10201</numero_nf>
+    <cod_fornecedor>F-201</cod_fornecedor>
+    <data_emissao>2025-01-15</data_emissao>
+    <valor_nf>45000.00</valor_nf>
+    <num_contrato>CTR-2024-001</num_contrato>
+  </nota>
+  <nota>
+    <numero_nf>NF-10202</numero_nf>
+    <cod_fornecedor>F-201</cod_fornecedor>
+    <data_emissao>2025-02-10</data_emissao>
+    <valor_nf>32000.00</valor_nf>
+    <num_contrato>CTR-2025-002</num_contrato>
+  </nota>
+  <nota>
+    <numero_nf>NF-10305</numero_nf>
+    <cod_fornecedor>F-305</cod_fornecedor>
+    <data_emissao>2025-01-20</data_emissao>
+    <valor_nf>28000.00</valor_nf>
+    <num_contrato>CTR-2024-015</num_contrato>
+  </nota>
+  <nota>
+    <numero_nf>NF-10118</numero_nf>
+    <cod_fornecedor>F-118</cod_fornecedor>
+    <data_emissao>2025-01-25</data_emissao>
+    <valor_nf>55000.00</valor_nf>
+    <num_contrato>CTR-2024-022</num_contrato>
+  </nota>
+  <nota>
+    <numero_nf>NF-10119</numero_nf>
+    <cod_fornecedor>F-118</cod_fornecedor>
+    <data_emissao>2025-02-08</data_emissao>
+    <valor_nf>61000.00</valor_nf>
+    <num_contrato>CTR-2024-022</num_contrato>
+  </nota>
+  <nota>
+    <numero_nf>NF-10120</numero_nf>
+    <cod_fornecedor>F-118</cod_fornecedor>
+    <data_emissao>2025-02-12</data_emissao>
+    <valor_nf>48000.00</valor_nf>
+    <num_contrato>CTR-2024-022</num_contrato>
+  </nota>
+</notas_fiscais>
